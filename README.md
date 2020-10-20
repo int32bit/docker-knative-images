@@ -3,4 +3,5 @@ docker-knative-images
 
 ```
 trigger build
+build
 ```
