@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/client/cmd/kn:latest
+MAINTAINER int32bit
